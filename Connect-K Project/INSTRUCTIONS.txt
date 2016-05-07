@@ -1,0 +1,12 @@
+Connect-K Game Instructions
+
+To Run:
+	Open the 'ConnectK.jar' file
+	From 'File', select 'New'
+	Select players- 
+		'Victory Producer.exe' (my AI)
+		'PoorAI.class'
+		'AverageAI.class'
+		'GoodAI.class'
+	Modify board size, 'K', and gravity options
+	Enjoy playing or watching the game!
