@@ -1,0 +1,15 @@
+CONNECT-K INSTRUCTIONS
+
+-Open 'ConnectK.jar'
+-From 'File', select 'New'
+-Select players:
+	'Victory Producer.exe' (my AI)
+	'PoorAI.class'
+	'AverageAI.class'
+	'GoodAI.class'
+-Modify preferences:
+	Board size
+	K (consecutive pieces required to win)
+	Gravity
+	Human or AI
+-Enjoy the game!
